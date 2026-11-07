@@ -10,7 +10,7 @@ This project uses two methods to compare them:
 
 ---
 
-## [Interactive Web Demo](arekebyu.github.io/fluidsim)
+## [Interactive Web Demo](https://www.arekebyu.github.io/fluidsim)
 
 The demo has some configurations to demonstrate the performance of the Fourier Neural Operator:
 - A Side-by-Side Comparison to compare accuracy
